@@ -23,15 +23,12 @@ solves real problems, from optimized graph algorithms to business-facing tools.
 - Web-based project focused on frontend structure and user interaction  
 https://github.com/taisenish/nyeflights-371
 
-### Portfolio Website
-- Personal site to showcase projects and skills  
-https://taisenish.github.io
 
 ## Skills
 - **Languages:** Java, C++, JavaScript, HTML/CSS
 - **Concepts:** Data Structures, Graphs, Algorithms, System Design
 - **Tools:** Git, GitHub, CI/CD, Testing
 
-## Links
-- Portfolio: https://taisenish.github.io
+## Links and Documents
 - LinkedIn: https://linkedin.com/in/taise-nish-772148349
+- Resume :  [TaiseKNish-RESUME(2026).pdf](https://github.com/user-attachments/files/24754070/TaiseKNish-RESUME.2026.pdf)
