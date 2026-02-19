@@ -7,6 +7,8 @@ Software Engineering | Systems | Practical Applications
 I’m an Informatics student graduating June 2026 with a strong foundation in
 data structures, algorithms, and system design. I enjoy building performance-oriented systems and algorithmic solutions, with a focus on correctness, efficiency, and clean architecture.
 
+Seeking 2026 New Grad Software Engineering opportunities (Backend / Systems)
+
 ## Featured Projects
 ### Inventory Management System
 - Built a terminal-based inventory system with persistent file storage for tracking products and quantities
