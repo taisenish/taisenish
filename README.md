@@ -10,6 +10,43 @@ data structures, algorithms, and system design. I enjoy building performance-ori
 Seeking 2026 New Grad Software Engineering opportunities (Backend / Systems)
 
 ## Featured Projects
+
+### NavAble (Capstone Project — In Progress)
+
+### Accessibility-first campus navigation tool for the University of Washington focused on personalized routing, real-time safety alerts, and inclusive accessibility data
+
+Overview:
+NavAble addresses gaps in existing navigation tools by providing accessibility-aware routing that adapts to user needs and real-time campus conditions.
+
+Team / Project Contributions:
+- Conducted research on campus accessibility challenges (terrain, construction, safety)
+- Developed user personas to represent different accessibility needs
+- Prioritized features using a structured backlog (P1/P2/P3)
+- Designed core system concepts including accessibility-aware routing and real-time alerts
+- Identified and integrated relevant data sources (UW Alerts, campus accessibility resources)
+- Iterated on scope to differentiate from UW Maps and avoid redundancy
+
+Individual Contributions & Skills:
+- Led product direction and defined how NavAble differs from existing tools
+- Designed accessibility preference system for personalized routing
+- Contributed to feature prioritization and MVP scoping decisions
+- Focused on trust and safety features (data labeling, reliability, transparency)
+- Applied product thinking to balance feasibility vs impact
+
+Key Learnings:
+- Accessibility impacts the entire system design, not just individual features
+- Real-time and user-reported data introduce trust and reliability challenges
+- Clear product differentiation is critical when competing with existing tools
+- Balancing technical constraints with user needs is an ongoing tradeoff
+
+Key Features:
+- Personalized accessible routes (ramps, elevators, entrances)
+- Real-time hazard + UW alert integration
+- Community-reported accessibility barriers
+- Inclusive campus resources (restrooms, menstrual products)
+
+Repository: https://github.com/taisenish/Project-Navable
+
 ### Inventory Management System
 - Built a terminal-based inventory system with persistent file storage for tracking products and quantities
 -Designed modular functions to support product updates, lookups, and data consistency
