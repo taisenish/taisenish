@@ -18,6 +18,29 @@ Seeking 2026 New Grad Software Engineering opportunities (Backend / Systems)
 Overview:
 NavAble addresses gaps in existing navigation tools by providing accessibility-aware routing that adapts to user needs and real-time campus conditions.
 
+Goals:
+- Build an accessibility-first navigation tool that adapts to user needs
+- Improve reliability of campus navigation using real-time data
+- Address gaps in existing tools that do not support accessibility well
+
+Process:
+- Conducted research on campus accessibility challenges (terrain, construction, safety)
+- Developed user personas to represent different needs
+- Used feature prioritization (P1/P2/P3) to define MVP scope
+- Designed system concepts including accessibility-aware routing and real-time alerts
+
+Takeaways:
+- Accessibility impacts the entire system, not just individual features
+- Real-time and user-reported data introduce trust challenges
+- Clear differentiation from existing tools (UW Maps) is critical
+- Balancing feasibility vs impact is a key product decision
+
+Next Steps:
+- Conduct user interviews and usability testing
+- Build a working prototype (routing + preferences)
+- Validate assumptions and iterate based on feedback
+- Improve data trust indicators (timestamps, source labeling)
+
 Team / Project Contributions:
 - Conducted research on campus accessibility challenges (terrain, construction, safety)
 - Developed user personas to represent different accessibility needs
